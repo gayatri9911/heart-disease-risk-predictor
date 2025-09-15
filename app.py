@@ -1,4 +1,5 @@
-
+from google.colab import drive
+drive.mount('/content/drive')
 
 # ---- Load model and dataset ----
 model = joblib.load('/content/drive/MyDrive/Datasets/heart_dataset/heart_model.pkl')
