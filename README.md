@@ -28,22 +28,22 @@ Interactive analytics dashboard with probability gauge and key feature visualiza
 
 | Feature | Value |
 |---------|-------|
-| Age | 45 |
-| Sex | Female |
-| Chest Pain Type | non-anginal |
-| Resting Blood Pressure | 130 |
-| Cholesterol | 220 |
-| Fasting Blood Sugar | No |
+| Age | 50 |
+| Sex | Male |
+| Chest Pain Type | typical-anginal |
+| Resting Blood Pressure | 120 |
+| Cholesterol | 200 |
+| Fasting Blood Sugar | Yes |
 | Resting ECG | normal |
-| Max Heart Rate Achieved | 170 |
-| Exercise Induced Angina | No |
-| ST Depression | 0.5 |
+| Max Heart Rate Achieved | 150 |
+| Exercise Induced Angina | Yes |
+| ST Depression | 1.00 |
 | Slope of ST segment | upsloping |
 | Number of Major Vessels | 0 |
 | Thalassemia | normal |
 
 **Expected Output:**  
-- Risk Probability: 51.5%  
+- Risk Probability: 57%  
 - Risk Level: Moderate Risk
   
 ## **Screenshot**
