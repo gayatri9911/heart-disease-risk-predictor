@@ -5,6 +5,8 @@
 Interactive analytics dashboard with probability gauge and key feature visualizations.
 
 ---
+## 🔗 Live App
+[Click here to try the app](https://heart-disease-risk-predictor-mbhijshoxpswaombiovugm.streamlit.app/)
 
 ## 🔹 Key Features
 - Predicts heart disease risk probability from patient data.
