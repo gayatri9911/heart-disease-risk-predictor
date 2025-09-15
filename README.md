@@ -1,6 +1,5 @@
-# heart-disease-risk-predictor
-Predicting heart disease risk using patient clinical data with interactive analytics and probability visualization. This project demonstrates data preprocessing, machine learning prediction, and data visualization. 
-# ❤️ Heart Disease Risk Predictor
+ 
+# 🫀 Heart Disease Risk Predictor
 
 **Predict the risk of heart disease using patient clinical data.**  
 Interactive analytics dashboard with probability gauge and key feature visualizations.
@@ -45,7 +44,10 @@ Interactive analytics dashboard with probability gauge and key feature visualiza
 
 **Expected Output:**  
 - Risk Probability: 51.5%  
-- Risk Level: Moderate Risk  
+- Risk Level: Moderate Risk
+  
+## **Screenshot**
+![App Screenshot](Asset-1.png)
 
 ---
 
