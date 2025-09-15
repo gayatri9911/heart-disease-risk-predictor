@@ -50,8 +50,21 @@ Interactive analytics dashboard with probability gauge and key feature visualiza
 ![App Screenshot](Asset-1.png)
 
 ---
+Folder Structure:
 
-## 🔹 How to Run
+heart-disease-predictor/
+│── app.py
+│── heart_model.pkl
+│── requirements.txt
+│── heart.csv
+│── README.md
+│── screenshot.png
+
+## How to Run
+
 1. Clone the repository:
 ```bash
-git clone https://github.com/<gayatri9911>/heart-disease-risk-predictor.git
+git clone https://github.com/gayatri9911/heart-disease-risk-predictor.git
+cd heart-disease-predictor
+pip install -r requirements.txt
+streamlit run app.py
